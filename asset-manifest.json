@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fmentor-stats-preview-challenge/static/css/main.75e933b5.css",
+    "main.js": "/fmentor-stats-preview-challenge/static/js/main.cc240706.js",
+    "static/media/image-header-mobile.jpg": "/fmentor-stats-preview-challenge/static/media/image-header-mobile.399f71e732a77d1f56c6.jpg",
+    "static/media/image-header-desktop.jpg": "/fmentor-stats-preview-challenge/static/media/image-header-desktop.72d6e2a00c9131c7b6a6.jpg",
+    "index.html": "/fmentor-stats-preview-challenge/index.html",
+    "main.75e933b5.css.map": "/fmentor-stats-preview-challenge/static/css/main.75e933b5.css.map",
+    "main.cc240706.js.map": "/fmentor-stats-preview-challenge/static/js/main.cc240706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e933b5.css",
+    "static/js/main.cc240706.js"
+  ]
+}
